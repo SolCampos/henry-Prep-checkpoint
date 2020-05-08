@@ -1,0 +1,22 @@
+.padre {
+    display: flex;
+    justify-content: center;
+}
+.hijo {
+    width: 500px;
+    background-color: yellow;
+}
+
+li {
+    font-size: 25px;
+    color: red;
+}    
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.link:visited {
+    color: green;
+}
