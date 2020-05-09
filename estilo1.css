@@ -1,8 +1,8 @@
-.padre {
+#padre {
     display: flex;
     justify-content: center;
 }
-.hijo {
+#hijo {
     width: 500px;
     background-color: yellow;
 }
@@ -12,11 +12,11 @@ li {
     color: red;
 }    
 
-.foto {
+#foto {
     display: flex;
     justify-content: center;
 }
 
-.link:visited {
+#link:visited {
     color: green;
 }
